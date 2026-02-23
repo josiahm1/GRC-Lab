@@ -13,5 +13,7 @@ This GRC Lab is aimed to conduct a structured cybersecurity self-assessment of O
 - Strengthened skills in GRC methodologies, risk analysis and cybersecurity maturity modeling.
 - Demonstrated attention to detail, documentation discipline and ability to translate technical risk into business-relevant insights.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+### Link to Project
+
+Here is the link to the project Google Drive. In the Google Drive you will find a spreadsheet with the NCRS Scoring and two Google Doc files, one being the Risk Assessement and the other being the Executive Summary.
+https://drive.google.com/drive/folders/1X_sxsky3Fu6gHeJSky1Ukxhoyt0BRXQT?usp=drive_link
