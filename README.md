@@ -16,4 +16,4 @@ This GRC Lab is aimed to conduct a structured cybersecurity self-assessment of O
 ### Link to Project
 
 Here is the link to the project Google Drive. In the Google Drive you will find a spreadsheet with the NCRS Scoring and two Google Doc files, one being the Risk Assessement and the other being the Executive Summary.
-https://drive.google.com/drive/folders/1X_sxsky3Fu6gHeJSky1Ukxhoyt0BRXQT?usp=drive_link
+https://drive.google.com/drive/u/1/folders/1IWpPYcK9wnwnPnAtGrC3d3kqcojB91Ni
